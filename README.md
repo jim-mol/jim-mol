@@ -1,29 +1,31 @@
-Hi, I'm Dimitris Molfetas! 👋
+<h1 align="center">Hi 👋, I'm Dimitris Molfetas</h1>
+<h3 align="center">Junior Software Engineer from Athens, Greece</h3>
 
-I am a dedicated Junior Software Engineer and entrepreneur, driven by a passion for technology and a knack for problem-solving. My journey involves managing a family-owned remote secreterial and IT business while diving deep into software development and data science.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jim-mol&label=Profile%20views&color=0e75b6&style=flat" alt="jim-mol" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jim-mol" alt="jim-mol" /></a> </p>
 
-🚀 About Me
-🔭 I'm currently the Owner and IT at AthenaTLG, where I lead projects and implement innovative IT solutions.
-📝 I explore new programming challenges daily, applying my skills in Python, Java, and SQL to create practical software solutions.
-📀 Active user of generative AI technologies.
-📸 I enjoy photography and videos games in my free time.
+- 🔭 I’m currently working on [Company Statistics](https://github.com/jim-mol/Company-Statistics)
 
-My Projects
-🌱 Automated Report Management System using Python to enhance business operations at AthenaTLG.
+- 🌱 I’m currently learning **Python, Data Science, C#**
 
-Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,cs,git,java,mysql,ps,vscode)](https://skillicons.dev)
+- 👨‍💻 All of my projects are available at [https://github.com/jim-mol](https://github.com/jim-mol)
 
-🌱 Currently Exploring
-🚀 Advancing my knowledge in software engineering with a focus on full-stack development.
-📂 Deepening my understanding of database management with advanced SQL techniques.
-📚 Learning to integrate machine learning models into applications for smarter decision-making processes.
+- 💬 Ask me about **Technology, Automations, Generative AI**
 
-🏆 Achievements
-🌟 Successfully managing and expanding my own business since 2011, incorporating innovative tech solutions to streamline operations.
+- 📫 How to reach me **jimmolfetas@gmail.com**
 
-📬 Get in Touch
-Coming Soon...
+- ⚡ Fun fact **Squirrels can survive their terminal velocity**
 
-Thank you for stopping by! I look forward to connecting and sharing our experiences in the tech world. 🚀
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jim-mol&show_icons=true&locale=en&layout=compact" alt="jim-mol" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jim-mol&show_icons=true&locale=en" alt="jim-mol" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jim-mol&" alt="jim-mol" /></p>
